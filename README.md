@@ -1,1 +1,1 @@
-# giris-paneli
+Duyarlı giriş paneli 
